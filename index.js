@@ -35,9 +35,9 @@ const anime = JSON.parse(fs.readFileSync('./src/anime.json'))
 const samih = JSON.parse(fs.readFileSync('./src/simi.json'))
 const vcard = 'BEGIN:VCARD\n' // ANAK ANJING MAU NGAPAIN ASU!?
             + 'VERSION:3.0\n' // SANA BUAT SENDIRI ENAK BENER LU!!!
-            + 'FN:Mas Lent Creator\n' // NAMA OWNER BOT
+            + 'FN: Daud Hanafi\n' // NAMA OWNER BOT
             + 'ORG:Creator MASLENT;\n' // KASIH CREDITS GUA Bang LENT JANCOK!!!
-            + 'TEL;type=CELL;type=VOICE;waid=628165466368:+62 816-5466-368\n' // GANTI NOMOR LU
+            + 'TEL;type=CELL;type=VOICE;waid=6281216795577:+62 812-1679-5577\n' // GANTI NOMOR LU
             + 'END:VCARD'
 prefix = '/'
 blocked = []
